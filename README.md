@@ -1,4 +1,6 @@
 <h1 style="text-align:center;">Menu do Jogo</h1>
+<h2 style="text-align:center;">Integrantes: Elder Gabriel, Fernando Andrade, João 
+Victor Resende</h2>
 
 <h4 style="text-align:center;"> 👾GIF DO MENU👾 </h4>
 
