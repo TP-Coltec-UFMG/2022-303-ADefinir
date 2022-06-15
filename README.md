@@ -29,7 +29,8 @@ Victor Resende</h2>
 <li>Alterado o personagem principal para um general;</li>
 <li>Adcionado animação de andar e de bocejar quando ele fica parado por um tempo;</li>
 <li>Novo sistema de vida para o personagem com a opção de decidir a vida inicial;</li>
-  <li>Obstáculo adicionado que cada vez que o personagem encostar nele, perde 1 ponto de vida.</li>
+<li>Sistema de GroudCheck (Verifica se o personagem está tocando no chão) para não deixar dar mais de um pulo por vez;</li>
+<li>Obstáculo adicionado que cada vez que o personagem encostar nele, perde 1 ponto de vida.</li>
 </ul>
 
 <h4 style="text-align:center;"> 🚧Próximas implementações🚧 </h4>
