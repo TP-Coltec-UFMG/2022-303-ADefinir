@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">jogo</h1>
+<h1 style="text-align:center;">Jogo</h1>
 <h2 style="text-align:center;">Integrantes: Elder Gabriel, Fernando Andrade, João 
 Victor Resende</h2>
 
