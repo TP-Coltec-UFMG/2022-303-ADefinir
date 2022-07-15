@@ -2,14 +2,19 @@
 <h2 style="text-align:center;">Integrantes: Elder Gabriel, Fernando Andrade, João 
 Victor Resende</h2>
 
-<h4 style="text-align:center;"> 👾GIF DO MENU👾 </h4>
+<h4 style="text-align:center;"> 👾IMAGENS DO MENU👾 </h4>
 
-<img src="https://cdn.discordapp.com/attachments/398277185892253696/985670138412015667/menu.gif">
+<img src="https://discord.com/channels/894305607677542411/931422248487759892/997485559285043240">
+<img src="https://discord.com/channels/894305607677542411/931422248487759892/997485559285043240">
 
 <h3 style="text-align:center;">Implementações no Menu:</h3>
 <ul>
 <li>Som de "Iniciar Jogo" e "Sair do Jogo" quando passar o mouse na opção referente;</li>
 <li>Mudar a cena para a do jogo ao clicar em "Iniciar Jogo" e quitar do jogo ao clicar em "Sair do Jogo"</li>
+<li>Página de configurações</li>
+<li>Opções de alterações de cor para daltônicos e também colocar em alto contraste</li>
+<li>Opções para alterar o volume geral e da música e ativar e desativar a narração</li>
+<li>Opção de alterar a dificuldade do jogo</li>
 </ul>
 
 <h4 style="text-align:center;"> 🚧Próximas implementações🚧 </h4>
