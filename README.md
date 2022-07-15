@@ -4,8 +4,8 @@ Victor Resende</h2>
 
 <h4 style="text-align:center;"> 👾IMAGENS DO MENU👾 </h4>
 
-<img src="https://discord.com/channels/894305607677542411/931422248487759892/997485559285043240">
-<img src="https://discord.com/channels/894305607677542411/931422248487759892/997485559285043240">
+<img src="https://cdn.discordapp.com/attachments/931422248487759892/997485558706221156/menu_principal.png">
+<img src="https://cdn.discordapp.com/attachments/931422248487759892/997485558974648421/menu_configs.png">
 
 <h3 style="text-align:center;">Implementações no Menu:</h3>
 <ul>
