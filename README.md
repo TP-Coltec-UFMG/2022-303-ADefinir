@@ -29,7 +29,7 @@ Victor Resende</h2>
 
 <img src="https://cdn.discordapp.com/attachments/762851212193693696/1007464665795801229/inicio-jogo.gif">
 
-<h3 style="text-align:center;">Novas atualizações no jogo</h3>
+<h3 style="text-align:center;">Novas atualizações no jogo 'changelog 15/07/22'</h3>
 <ul>
 <li>Alterado o personagem principal para um general;</li>
 <li>Adcionado animação de andar e de bocejar quando ele fica parado por um tempo;</li>
@@ -38,11 +38,22 @@ Victor Resende</h2>
 <li>Obstáculo adicionado que cada vez que o personagem encostar nele, perde 1 ponto de vida.</li>
 </ul>
 
+<h3 style="text-align:center;">Novas atualizações no jogo 'changelog 11/08/22'</h3>
+<ul>
+  <li>Alterado o fundo do jogo para um novo cenário e com carros colidíveis;</li>
+  <li>Adicionado arma ainda não funcional no personagem principal;</li>
+  <li>Sistema de vida com o HUD funcionando como mostra o GIF abaixo.</li>
+</ul>
+
+<h4 style="text-align:center;"> 👾GIF DO INICIO DO JOGO👾  'changelog 11/08/22' </h4>
+
+<img src="https://cdn.discordapp.com/attachments/762851212193693696/1007467301060223026/hud-vida.gif">
+
 <h4 style="text-align:center;"> 🚧Próximas implementações🚧 </h4>
 
 <ul>
-  <li>Camera seguir o personagem no cenáro</li>
-  <li>HUD da vida do personagem</li>
+  <li>Adicionar inimigo(s);</li>
+  <li>Deixar a arma funcional.</li>
 </ul>
 
 <h3 style="text-align:center;"> 🎮Ideia do Jogo🎮 </h3>
