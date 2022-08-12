@@ -25,9 +25,9 @@ Victor Resende</h2>
   <li>Nome do jogo estilizado e fundo do menu estilizado</li>
 </ul>
 
-<h4 style="text-align:center;"> 👾GIF DO INICIO DO JOGO👾 </h4>
+<h4 style="text-align:center;"> 👾GIF DO INICIO DO JOGO👾  'changelog 11/08/22' </h4>
 
-<img src="https://cdn.discordapp.com/attachments/398277185892253696/986433689313476729/jogo.gif">
+<img src="https://cdn.discordapp.com/attachments/762851212193693696/1007464665795801229/inicio-jogo.gif">
 
 <h3 style="text-align:center;">Novas atualizações no jogo</h3>
 <ul>
