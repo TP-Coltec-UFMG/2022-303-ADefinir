@@ -16,5 +16,13 @@ public class ChangeScene : MonoBehaviour
     {
         Application.Quit();
     }
-
+    
+    public void RestartGame(string cena)
+    {
+        SceneManager.LoadScene(cena);
+    }
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
 }

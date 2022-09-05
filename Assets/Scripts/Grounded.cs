@@ -13,7 +13,7 @@ public class Grounded : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collisor)
     {
-        if(collisor.gameObject.layer == 3)
+        if(collisor.gameObject.layer == 6)
         {
             Player.isJumping = false;
         }
@@ -21,7 +21,7 @@ public class Grounded : MonoBehaviour
 
     void OnCollisionExit2D(Collision2D collisor)
     {
-        if(collisor.gameObject.layer == 3)
+        if(collisor.gameObject.layer == 6)
         {
             Player.isJumping = true;
         }

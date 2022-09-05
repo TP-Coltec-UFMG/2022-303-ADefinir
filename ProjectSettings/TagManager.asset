@@ -3,15 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - espinho
+  - Enemy
+  - bullet
+  - pendulo
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - pedra
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
