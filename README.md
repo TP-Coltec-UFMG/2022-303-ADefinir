@@ -57,7 +57,7 @@ Victor Resende</h2>
 
 <h4 style="text-align:center;"> 👾GIF PRIMEIRA FASE👾  'changelog 30/08/22' </h4>
 
-<img src="file:///C:/Users/Fabin/OneDrive/%C3%81rea%20de%20Trabalho/jogo%20fase%201.gif">
+<img src="/midia/jogo-1.gif">
 
 
 <h3 style="text-align:center;"> 🎮Ideia do Jogo🎮 </h3>
