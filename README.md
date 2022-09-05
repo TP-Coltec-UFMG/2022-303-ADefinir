@@ -59,6 +59,15 @@ Victor Resende</h2>
 
 <img src="/midia/jogo-1.gif">
 
-
+<h3 style="text-align:center;">Novas atualizações no jogo 'changelog 30/08/22'</h3>
+<ul>
+  <li>Câmera seguindo o personagem</li>
+  <li>Tiro funcional com tiro</li>
+  <li>Inimigo morrendo ao tomar tiro</li>
+  <li>Sistemas de acessibilidade: Daltonismo (ainda sem a opção no menu mas já funcional no jogo como a imagem abaixo)</li>
+  <li>Sistema de volume geral funcionando</li>
+  <li>Tela de Game Over</li>
+  <li>Portão para levar à uma futura fase 2</li>
+</ul>
 <h3 style="text-align:center;"> 🎮Ideia do Jogo🎮 </h3>
 <h4>A ideia deste jogo, que ainda não tem nome, é que o personagem principal seria um general do exército de algum país lutando contra alguma causa desse país que ainda não foram decididos, então o general sairia percorrendo pelo cenário e teria uma arma para atirar nos inimigos (causas do país), porém não teria apenas os inimigos atrapalhando de chegar ao fim e vencer, mas também alguns obstáculos de guerra como minas terrestres que ele teria que pular. Assim implementaríamos um sistema que quanto mais perto ele se aproximasse dos inimigos e das minas terrestres ia aumentando o barulho de alerta assim auxiliando as pessoas que têm deficiência visual. O jogo também vai haver as opções de trocar as cores do cenário, também auxiliando os deficientes visuais a jogarem. O objetivo é combater todas as causas e não ser explodido pelas minas terrestres.</h3>
