@@ -68,6 +68,7 @@ Victor Resende</h2>
   <li>Sistema de volume geral funcionando</li>
   <li>Tela de Game Over</li>
   <li>Portão para levar à uma futura fase 2</li>
+  <li>Inimigo de modo Patrulheiro</li>
 </ul>
 <h2 style="text-align:center;">Protanopia 'changelog 30/08/22'</h2>
 <img src="/midia/protanopia.png">
