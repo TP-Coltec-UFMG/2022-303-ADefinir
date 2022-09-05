@@ -45,7 +45,6 @@ Victor Resende</h2>
   <li>Sistema de vida com o HUD funcionando como mostra o GIF abaixo.</li>
 </ul>
 
-<h4 style="text-align:center;"> 👾GIF DO INICIO DO JOGO👾  'changelog 11/08/22' </h4>
 
 <img src="https://cdn.discordapp.com/attachments/762851212193693696/1007467301060223026/hud-vida.gif">
 
@@ -55,6 +54,11 @@ Victor Resende</h2>
   <li>Adicionar inimigo(s);</li>
   <li>Deixar a arma funcional.</li>
 </ul>
+
+<h4 style="text-align:center;"> 👾GIF PRIMEIRA FASE👾  'changelog 30/08/22' </h4>
+
+<img src="file:///C:/Users/Fabin/OneDrive/%C3%81rea%20de%20Trabalho/jogo%20fase%201.gif">
+
 
 <h3 style="text-align:center;"> 🎮Ideia do Jogo🎮 </h3>
 <h4>A ideia deste jogo, que ainda não tem nome, é que o personagem principal seria um general do exército de algum país lutando contra alguma causa desse país que ainda não foram decididos, então o general sairia percorrendo pelo cenário e teria uma arma para atirar nos inimigos (causas do país), porém não teria apenas os inimigos atrapalhando de chegar ao fim e vencer, mas também alguns obstáculos de guerra como minas terrestres que ele teria que pular. Assim implementaríamos um sistema que quanto mais perto ele se aproximasse dos inimigos e das minas terrestres ia aumentando o barulho de alerta assim auxiliando as pessoas que têm deficiência visual. O jogo também vai haver as opções de trocar as cores do cenário, também auxiliando os deficientes visuais a jogarem. O objetivo é combater todas as causas e não ser explodido pelas minas terrestres.</h3>
